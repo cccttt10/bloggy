@@ -105,10 +105,10 @@ A note on publishers and readers: we distinguish publishers from readers mainly 
   - Network requests: axios
   - Bundler: webpack
   - Transpiler: babel
-	- Linting tools: ESLint + Prettier + husky + lintstaged
-	- Markdown edit & preview: marked + highlight.js
-	- Testing: Jest + Enzyme
-	- Authentication & Authorization:  JWT (JSON Web Token) + browser cookie
+  - Linting tools: ESLint + Prettier + husky + lintstaged
+  - Markdown edit & preview: marked + highlight.js
+  - Testing: Jest + Enzyme
+  - Authentication & Authorization:  JWT (JSON Web Token) + browser cookie
 
 - Back end
 	- Language: node.js with TypeScript (JS not allowed, we want to make our server as stable as possible with a statically typed language)
