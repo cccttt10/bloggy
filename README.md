@@ -8,6 +8,18 @@ This repo mainly describes how Bloggy works. If you are looking for source code,
 
 - Front-end repo for reader view (not started yet)
 
+## Prototypes
+
+### Reader view
+
+![reader](./prototypes/reader.jpg)
+
+### Publisher view
+
+![publisher-edit](./prototypes/publisher-edit.jpg)
+
+![publisher-manage-comments](./prototypes/publisher-manage-comments.jpg)
+
 ## Overview
 
 - Who is Bloggy for?
