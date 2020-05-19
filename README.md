@@ -11,24 +11,35 @@ This repo mainly describes how Bloggy works. If you are looking for source code,
 ## Overview
 
 - Who is Bloggy for?
-	People who want to publish and edit their blogs online and people who want to read these blogs
+
+> People who want to publish and edit their blogs online and people who want to read these blogs
+
 - What will Bloggy do?
-	Bloggy allows readers to read blogs online and post comments. Bloggy also allows publishers to publish and edit blogs online.
+
+> Bloggy allows readers to read blogs online and post comments. Bloggy also allows publishers to publish and edit blogs online.
+
 - What type of data will Bloggy store?
-	Bloggy will mainly store data about users, articles and comments.
+
+> Bloggy will mainly store data about users, articles and comments.
+
 - What will users be able to do with this data?
-	Publishers can publish articles, edit articles and respond to comments. Users can view articles and post comments.
+
+> Publishers can publish articles, edit articles and respond to comments. Users can view articles and post comments.
+
 - Additional / optional features
-	We may allows tags for articles. Publishers can assign tags to articles. Readers can filter articles by tags. We may also allow publishers to showcase their projects in a separate page.
-	
+
+> We may allows tags for articles. Publishers can assign tags to articles. Readers can filter articles by tags. We may also allow publishers to showcase their projects in a separate page.
+
 ## Requirements
 
 ### Minimal requirements
+
 - [ ] Publisher
 	- [ ] Can register and log in 	
 	- [ ] Can create and edit articles in a markdown rich text editor
 	- [ ] Can switch between source code mode and preview mode in the editor
 	- [ ] Can delete and respond to comments 
+
 - [ ] Reader
 	- [ ] Can register and log in
 	- [ ] Can read articles
@@ -36,24 +47,26 @@ This repo mainly describes how Bloggy works. If you are looking for source code,
 	- [ ] Can post comments to articles
 
 ### Standard requirements
+
 - [ ] Publisher
 	- [ ] Can post and edit projects
 	- [ ] Can save unpublished articles as drafts
+
 - [ ] Reader
 	- [ ] Can view projects
 
 ###  Stretch requirements
+
 - [ ] Publisher
 	- [ ] Can assign tags to articles
 	- [ ] Can create and about page and edit it
+
 - [ ]  Reader
 	- [ ] Can filter articles by tags
 	- [ ] Can filter articles by year  
 	- [ ] Can view the about page
 
 A note on publishers and readers: we distinguish publishers from readers mainly because the publisher UI will look very different from the reader UI and they have different functionalities. However, every user is both a publisher and a reader, i.e. you can use the same credentials to view other people's blogs and publish your own blogs.
-
-
 
 ## Requirement breakdown
 
