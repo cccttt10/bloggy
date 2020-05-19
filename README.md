@@ -1,11 +1,15 @@
 # Bloggy
 
-This repo mainly describes how Bloggy works. If you are looking for source code, please refer to these links:
+- [Prototypes](https://github.com/chuntonggao/bloggy#prototypes)
+- [Overview](https://github.com/chuntonggao/bloggy#overview)
+- [Requirements](https://github.com/chuntonggao/bloggy#requirements)
+- [Requirement breakdown](https://github.com/chuntonggao/bloggy#requirement-breakdown)
+- [Tech stack](https://github.com/chuntonggao/bloggy#tech-stack)
+
+This repo mainly provides an overview for the Bloggy project. If you are looking for source code, please refer to the following links:
 
 - [Back-end repo](https://github.com/chuntonggao/bloggy-server.git) 
-
 - Front-end repo for publisher view (not started yet)
-
 - Front-end repo for reader view (not started yet)
 
 ## Prototypes
