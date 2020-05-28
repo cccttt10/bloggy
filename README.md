@@ -9,7 +9,7 @@
 This repo mainly provides an overview for the Bloggy project. If you are looking for source code, please refer to the following links:
 
 - [Back-end repo](https://github.com/chuntonggao/bloggy-server.git) 
-- [Front-end repo for publisher view] (https://github.com/chuntonggao/bloggy-publisher.git)
+- [Front-end repo for publisher view](https://github.com/chuntonggao/bloggy-publisher.git)
 - Front-end repo for reader view (not started yet)
 
 ## Prototypes
