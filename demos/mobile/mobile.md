@@ -1,0 +1,6 @@
+![Login - Mobile view](./0-login-mobile.png)
+![Register - Mobile view](./1-register-mobile.png)
+![Create article - Mobile view](./2-create-article-draft-mobile.gif)
+![Manage articles - Mobile view](./3-manage-articles-mobile.gif)
+![Create category - Mobile view](./4-create-category-mobile.gif)
+![Themes - Mobile view](./5-theme-mobile.gif)
