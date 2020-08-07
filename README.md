@@ -2,8 +2,6 @@
 
 ## https://bloggy2020.herokuapp.com
 
---- 
-
 This repo mainly provides an overview for the Bloggy project. If you are looking for source code, please refer to the following links:
 
 - [Back-end repo](https://github.com/chuntonggao/bloggy-server.git) 
