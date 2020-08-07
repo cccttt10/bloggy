@@ -1,8 +1,8 @@
-### Login - Mobile view
-![Login - Mobile view](./0-login-mobile.png)
-
 ### Register - Mobile view
 ![Register - Mobile view](./1-register-mobile.png)
+
+### Login - Mobile view
+![Login - Mobile view](./0-login-mobile.png)
 
 ### Create article - Mobile view
 ![Create article - Mobile view](./2-create-article-draft-mobile.gif)
